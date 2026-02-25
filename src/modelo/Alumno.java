@@ -5,6 +5,6 @@ public class Alumno {
     String curso;
 
     public Alumno() {
-
+        String conflicto = "genero un conflicto";
     }
 }
