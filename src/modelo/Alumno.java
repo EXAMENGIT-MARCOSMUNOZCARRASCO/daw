@@ -6,5 +6,6 @@ public class Alumno {
 
     public Alumno() {
         String conflicto = "genero un conflicto";
+        String ahiVaElConflicto = "bum";
     }
 }
